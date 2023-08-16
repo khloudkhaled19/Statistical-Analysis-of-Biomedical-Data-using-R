@@ -1,0 +1,8 @@
+Number of p_values before any correlation 
+100
+Number of significant p_values before any correlation 
+50
+Number of significant p_values after applying the Bonferroni method 
+18
+Number of the significant p_values after applying the FDR method 
+40

@@ -1,0 +1,5 @@
+p_value of wilcoxon test as the data of the cancerous is not normally distributed 
+p_value of wilcoxon test
+1
+p_value of permutation 
+0
